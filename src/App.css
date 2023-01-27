@@ -1,0 +1,6 @@
+.app {
+    width: 400px;
+    box-shadow: 0 0 10px -3px gray;
+    border-radius: 5px;
+    overflow: hidden;
+}
