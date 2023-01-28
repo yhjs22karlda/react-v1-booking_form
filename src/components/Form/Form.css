@@ -23,6 +23,11 @@
     padding: 1.2rem 0 0 .8rem;
 }
 
+.form input[type=radio] {
+    transform: scale(1.4);
+    accent-color: black;
+}
+
 .form .ticket {
     padding: 1.2rem .8rem 0 0;
 }
@@ -71,4 +76,5 @@
     color: white;
     border-radius: 5px;
     font-size: 1.3rem;
+    font-weight: bold;
 }
